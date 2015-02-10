@@ -1,0 +1,3 @@
+# Module messagescheduler
+# RPC service class, partial path of RPC policy file
+com.google.gwt.messenger.client.GateWayService, 0FF8BD2ADE71829620BC7DE5897DDF70.gwt.rpc

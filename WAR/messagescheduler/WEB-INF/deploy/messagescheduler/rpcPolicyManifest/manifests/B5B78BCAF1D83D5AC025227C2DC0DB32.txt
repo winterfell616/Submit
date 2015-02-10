@@ -1,0 +1,2 @@
+serviceClass: com.google.gwt.messenger.client.GateWayService
+path: 0FF8BD2ADE71829620BC7DE5897DDF70.gwt.rpc
